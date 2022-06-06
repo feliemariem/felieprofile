@@ -1,0 +1,83 @@
+/*-----General Styles----*/
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+/*-----Header with Full Name-----*/
+.logo {
+  background-color: #2F4F4F;
+  margin: 0;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  font-style: italic;
+  font-size:72px;
+  text-align: center;
+  padding: 60px 30px
+}
+
+/*----- Profile Pic ----*/
+img {
+  display: block;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+}
+
+/*----- About Me, Contact Information on Main-----*/
+main section {
+  margin: 0;
+  color: black;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  font-size:36px; 
+  padding: 20px;
+}
+
+/* -----Section Borders-----*/
+.solid  {  
+  border: 1px solid lightgray;   
+  background: lightgray;
+}
+
+p {
+  text-align: left;
+}
+
+/*----Both unordered and ordered lists on main----*/
+.list {
+  text-align: left;
+}
+
+footer {
+  border: 1px solid lightgray;   
+  background: black;
+  font-size: 24px;
+  color: white;
+  padding: 10px;
+}
+
+/*---- Contact Links-----*/
+a:link {color: blue;}
+a:visited {color: blue;}
+a:hover {color: darkblue;}
+a:active {color:darkblue;}
+
+
+
+
+
+  
+
+  
+
+
+
+
+  
+
+
+ 
+  
+
